@@ -1,0 +1,7 @@
+.env
+*logo*
+node_modules
+*manifest*
+*robots*
+.env
+*/public/*
