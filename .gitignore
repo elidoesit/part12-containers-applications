@@ -1,4 +1,5 @@
 .env
+*/todo-app/todo-backend/mongo_data/*
 *logo*
 node_modules
 *manifest*
